@@ -1,0 +1,22 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìèÌúÿÿÿÿ
+j
+java:S1192,"ODefine a constant instead of duplicating this literal "
+--- Jogador " 10 times.(Í¸¶Ôúÿÿÿÿ
+l	java:S127)"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+‹
+java:S1319	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´ñĞışÿÿÿÿ
+„
+java:S1488‚"hImmediately return this expression instead of assigning it to the temporary variable "palavraAleatoria".(Ò¶ø¢ıÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(üÒ•şÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(èòÎøÿÿÿÿ
+V	java:S125]"<This block of commented-out lines of code should be removed.(È’İËıÿÿÿÿ
+=
+java:S1125s"'Remove the unnecessary boolean literal.(­ãÈª
+5
+java:S2119€"Save and re-use this "Random".(ü‡À„
+á
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 79 to 64, Complexity from 29 to 14, Nesting Level from 5 to 2, Number of Variables from 13 to 6.(üÒ•şÿÿÿÿ

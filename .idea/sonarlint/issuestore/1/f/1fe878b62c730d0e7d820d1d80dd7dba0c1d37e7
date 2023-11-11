@@ -1,0 +1,8 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ›ž˜ùÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘
+=
+java:S11253"'Remove the unnecessary boolean literal.(¨Ä¡·
+P
+java:S2479;":Remove the non-escaped \u00A0 character from this literal.(±ñòÃ
